@@ -1,0 +1,25 @@
+  <!doctype html>
+  <html lang="en-US">
+    <head>
+      <meta charset="utf-8" />
+      <title>A-Frame</title>
+      <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+      <script src="https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js"></script>  
+    </head>
+
+    <body>
+      <a-scene>
+
+        
+
+        <a-camera
+          position="0 2 0"
+          cursor-visible="true"
+          cursor-scale="2"
+          cursor-color="#0095DD"
+          cursor-opacity="0.5">
+        </a-camera>
+    <a-entity environment="preset: checkerboard; dressingAmount: 50"></a-entity>
+      </a-scene>
+    </body>
+  </html>
