@@ -4,6 +4,6 @@ This was mainly to create a 3D environment in HTML's Aframe, in part of the proj
 
 ## Notes
 
-It relies heavily on assests made by supermedium [link]([http://foo.bar](https://github.com/supermedium/aframe-environment-component))
+It relies heavily on assests made by supermedium [https://github.com/supermedium/aframe-environment-component]
 Additionally, assests were downloaded off of Fab, I designed none of the 3D models. 
 
